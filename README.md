@@ -58,7 +58,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia, distribuída
 Seja para falar sobre desenvolvimento Front-End, oportunidades (como Análise de Dados ou Sistemas), ou partilhar ideias sobre código, sinta-se à vontade para me contactar!
 
 <p>
-  <a href="https://www.linkedin.com/in/joão-guilherme-pereira-furtado/" target="_blank">
+  <a href="[https://www.linkedin.com/in/joão-guilherme-pereira-furtado/](https://www.linkedin.com/in/jo%C3%A3o-guilherme-pereira-furtado-b71454315/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:joaogpfurtado@gmail.com">
