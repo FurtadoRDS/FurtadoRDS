@@ -45,9 +45,9 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia, distribuída
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **FechaFolha PRO** | Sistema completo de gestão financeira *Local-First* para redes de lojas. Realiza o cálculo de salários base e comissões com exportação inteligente para Excel (.xlsx), gerando relatórios adaptados dinamicamente para formatos Mobile e Desktop. | `React`, `Vite`, `Tailwind`, `xlsx-js` |
-| **Portfólio Web** | O meu espaço digital pessoal para apresentar projetos, competências e detalhes da minha jornada no desenvolvimento web, desenhado com foco absoluto em UI/UX e performance. | `React`, `Tailwind`, `Vercel` |
-| **Contract Guardian** | Prototipagem e modelagem de um sistema de Contract Lifecycle Management (CLM) com dashboards ricos, utilizando Google Stitch para geração avançada de UI. | `UI Design`, `React` |
+| **FechaFolha PRO** | Sistema completo de gestão financeira *Local-First* para redes de lojas. Realiza o cálculo de salários base e comissões com exportação inteligente para Excel (.xlsx), gerando relatórios adaptados dinamicamente para formatos Mobile e Desktop. | `React`, `Vite`, `Tailwind`, `xlsx-js`, `Vercel` |
+| **Portfólio Web** | O meu espaço digital pessoal para apresentar projetos, competências e detalhes da minha jornada no desenvolvimento web, desenhado com foco absoluto em UI/UX e performance. | `React`, `Tailwind`, `Vercel`,  `Vite` |
+| **Contract Guardian** | Prototipagem e modelagem de um sistema de Contract Lifecycle Management (CLM) com dashboards ricos, utilizando Google Stitch para geração avançada de UI. | `UI Design`, `React`, `Tailwind`, `Vite`, `Vercel` |
 
 ---
 
