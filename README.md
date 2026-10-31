@@ -10,8 +10,8 @@ Sou um **Desenvolvedor Front-End** e estudante de Sistemas de Informação em Ca
 
 A minha jornada na tecnologia combina a experiência real de **suporte técnico direto ao cliente final** com a construção de aplicações web modernas. Essa vivência permite-me criar interfaces que não são apenas visualmente atraentes (com foco em UI/UX e design responsivo), mas também altamente funcionais e focadas na real necessidade e usabilidade do utilizador.
 
-- 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas (Computação em Nuvem, Redes, Banco de Dados SQL e Garantia de Qualidade de Software / SQA).
-- 💡 **Interesses:** Ecossistema React, Spec-Driven Development (OpenAPI), e prototipagem de jogos (Python/JS/C#).
+- 🎓 **Estudando:** Sistemas de Informação, Garantia de Qualidade de Software, Desenvolvimento Front-end.
+- 💡 **Interesses:** Ecossistema React, prototipagem de jogos (Python/JS/C#), e novos aprendizados em um geral.
 - 🚀 **Foco Atual:** Criar soluções locais escaláveis, ferramentas de gestão empresarial e explorar arquiteturas modernas de web deployment.
 
 ---
