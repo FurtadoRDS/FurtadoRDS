@@ -1,4 +1,6 @@
-<h1 align="center">João Furtado</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Jo%C3%A3o%20Furtado!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Olá, eu sou o João Furtado!" />
+</div>
 
 <p align="center">
   <strong>Desenvolvimento web com React, TypeScript e Laravel</strong><br>
