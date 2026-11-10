@@ -18,7 +18,6 @@
 
 Sou estudante de Sistemas de Informação na Estácio e estagiário de suporte de TI no Grupo Rio Mais. Na empresa, também desenvolvo o sistema interno de gestão de contratos, do front-end ao back-end.
 
-Busco um estágio em desenvolvimento web para seguir evoluindo com React, TypeScript e Laravel.
 
 ## O que estou construindo
 
