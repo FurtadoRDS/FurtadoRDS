@@ -62,6 +62,6 @@ Testes com Vitest, Testing Library e PHPUnit.
 
 I'm an Information Systems student and an IT support intern at Grupo Rio Mais, in Brazil. At the company, I also build the internal contract management system, from front end to back end, with React, TypeScript, Laravel and PostgreSQL.
 
-I'm looking for a web development internship. My [portfolio](https://joao-furtado-portfolio-v1.vercel.app/) is in Portuguese, but feel free to reach out in English on [LinkedIn](https://www.linkedin.com/in/joao-guilherme-pereira-furtado) or by [email](mailto:joaogpfurtado@gmail.com).
+My [portfolio](https://joao-furtado-portfolio-v1.vercel.app/) is in Portuguese, but feel free to reach out in English on [LinkedIn](https://www.linkedin.com/in/joao-guilherme-pereira-furtado) or by [email](mailto:joaogpfurtado@gmail.com).
 
 </details>
