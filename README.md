@@ -21,7 +21,7 @@ Sou estudante de Sistemas de Informação na Estácio e estagiário de suporte d
 
 ## O que estou construindo
 
-**Contract Guardian** · sistema interno do Grupo Rio Mais<br>
+**Mais Contratos** · sistema interno do Grupo Rio Mais<br>
 Gestão de contratos com anexo em PDF, dashboard de custos, calendário de vencimentos, controle de acesso por perfis e avisos por e-mail. Tem mais de 120 testes automatizados rodando em integração contínua.<br>
 `React` `TypeScript` `Laravel` `PostgreSQL` `Docker` · [Ver no portfólio](https://joao-furtado-portfolio-v1.vercel.app/#projetos) · código privado
 
